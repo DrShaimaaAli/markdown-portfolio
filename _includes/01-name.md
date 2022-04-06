@@ -1,2 +1,2 @@
 # Personal Information
-**Name: ** Shaimaa Ali
+**Name:** Shaimaa Ali
